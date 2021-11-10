@@ -1,0 +1,33 @@
+div {
+    color:blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
+h1 {
+    color:hsl(271, 100%, 8%);
+    font-size: 30px;
+    
+}
+h2 {
+    color:rgb(79, 10, 145);
+    font-size: 28px;
+    
+}
+li { color: black;
+    list-style-position: inside;
+}
+h3{  color:#000000;
+    font-size: 22px;
+    text-align:initial ;
+}
+
+h4 {
+    color:rgb(79, 10, 145);
+    font-size: 28px;
+}
+ol {
+    color:black;
+    font-size: 20px;
+    text-align: center;
+}
+
